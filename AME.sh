@@ -1,0 +1,1 @@
+ame --verbose 5 --bgformat 1 --scoring avg --method ranksum --pvalue-report-threshold 0.5 --oc d0-d1_out --control d0-d1_down_3utr.fa d0-d1_up_3utr.fa /biodb/meme_motifs/RNA/Ray2013_rbp_Homo_sapiens.dna_encoded.meme
