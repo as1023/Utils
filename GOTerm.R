@@ -41,3 +41,14 @@ p<-p+theme(axis.title.x = element_text(face="bold",size=13))
 p
 dev.off()
 
+
+
+
+
+######some webapge 
+http://www-huber.embl.de/users/klaus/Teaching/DESeq2Predoc2014.html#gene-ontology-enrichment-analysis
+http://www.r-bloggers.com/tutorial-rna-seq-differential-expression-pathway-analysis-with-sailfish-deseq2-gage-and-pathview/
+https://r-forge.r-project.org/scm/viewvc.php/pkg/R/MLPSetUp.R?view=markup&root=mlp&pathrev=21
+
+
+
