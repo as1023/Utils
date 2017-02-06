@@ -36,24 +36,24 @@ bolditalic="Arial:style=Bold Italic,BoldItalic",
 symbol="Symbol")
 
 ####Create a data.frame with the required metadata, i.e., the names of the count files and experimental conditions
-#setwd("~/Desktop/leo_project/LongRNA/human/htseq_out")
- setwd("/Users/amitsingh/Desktop/leo_project/LongRNA/human/Ribo_minus/htseq_out/")
+#setwd("~/Desktop/LongRNA/human/htseq_out")
+ setwd("~/Desktop/LongRNA/human/htseq_out/")
 sampleFiles <- c("SN7640334_39846_1_d0_1_STARmapping.htseq_count.txt",
-"SN7640334_39847_2_d0_2_STARmapping.htseq_count.txt","SN7640334_39848_3_d0_3_STARmapping.htseq_count.txt",
-"SN7640334_39849_4_d1_2_STARmapping.htseq_count.txt",
-"SN7640334_39850_5_d1_3_STARmapping.htseq_count.txt",
-"SN7640334_39851_6_d1_3_STARmapping.htseq_count.txt",
-"SN7640334_39852_7_d2_1_STARmapping.htseq_count.txt",
-"SN7640334_39853_8_d2_2_STARmapping.htseq_count.txt",
-"SN7640334_39854_9_d2_3_STARmapping.htseq_count.txt",
-"SN7640334_39855_10_d4_1_STARmapping.htseq_count.txt",
-"SN7640334_39856_11_d4_2_STARmapping.htseq_count.txt",
-"SN7640334_39857_12_d4_3_STARmapping.htseq_count.txt",
-"SN7640334_39858_13_d6_1_STARmapping.htseq_count.txt",
-"SN7640334_39859_14_d6_2_STARmapping.htseq_count.txt",
-"SN7640334_39860_15_d6_3_STARmapping.htseq_count.txt",
-"SN7640334_39861_16_d8_1_STARmapping.htseq_count.txt",
-"SN7640334_39862_17_d8_2_STARmapping.htseq_count.txt",
+"d0_2_STARmapping.htseq_count.txt","S_3_d0_3_STARmapping.htseq_count.txt",
+"d1_2_STARmapping.htseq_count.txt",
+"d1_3_STARmapping.htseq_count.txt",
+"d1_3_STARmapping.htseq_count.txt",
+"d2_1_STARmapping.htseq_count.txt",
+"d2_2_STARmapping.htseq_count.txt",
+"d2_3_STARmapping.htseq_count.txt",
+"d4_1_STARmapping.htseq_count.txt",
+"STARmapping.htseq_count.txt",
+"d4_3_STARmapping.htseq_count.txt",
+"STARmapping.htseq_count.txt",
+"d6_2_STARmapping.htseq_count.txt",
+"d6_3_STARmapping.htseq_count.txt",
+"d8_1_STARmapping.htseq_count.txt",
+"d8_2_STARmapping.htseq_count.txt",
 "SN7640334_39863_18_d8_3_STARmapping.htseq_count.txt",
 "D004270063_39864_19_d14_1_STARmapping.htseq_count.txt",
 "D004270063_39865_20_d14_2_STARmapping.htseq_count.txt","D004270063_39866_21_d14_3_STARmapping.htseq_count.txt")
