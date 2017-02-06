@@ -69,3 +69,19 @@ idx <- grep("UNKNOWN",names(y))
 y <- y[-idx]
 save(y,file="tft_human.dat")
 
+
+
+https://www.biostars.org/p/18112/
+http://iregulon.aertslab.org/collections.html#motifcolldownload
+# Entrez Gene IDs.
+TRED[["STAT3"]]
+# Gene symbols used on the ITFP website.
+ITFP[["STAT3"]]
+# Entrez Gene IDs.
+head(ENCODE[["STAT3"]], 100)
+# Entrez Gene IDs.
+Neph2012[["AG10803-DS12374"]][["STAT3"]]
+
+https://www.bioconductor.org/help/workflows/generegulation/
+
+
